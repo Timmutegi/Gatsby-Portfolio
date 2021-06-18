@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'avatar.jpg',
+  img: 'avatar.png',
   paragraphOne:
     'I am a Full Stack developer and I am committed to excellence and delivering quality work through my skills in web development.',
   paragraphTwo:
@@ -69,8 +69,8 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
+  cta: 'Let me know what I can help you with!',
+  btn: 'Email Me',
   email: 'mutegi.timothy538@gmail.com',
 };
 
