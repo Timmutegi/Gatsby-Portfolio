@@ -43,7 +43,7 @@ export const projectsData = [
     img: 'luggage.png',
     title: 'Luggage Hero',
     info: 'Web application that offers luggage storage services',
-    info2: 'Technologies: Angular, NodeJS, Express, Mongo DB, Firebase',
+    info2: 'Technologies: HTML, Sass, Angular, Bootstap, TypeScript, NodeJS, Express, Mongo DB, Firebase',
     url: 'https://luggage-hero-a0de7.firebaseapp.com/',
     repo: '', // if no repo, the button will not show up
   },
@@ -52,7 +52,7 @@ export const projectsData = [
     img: 'truflix1.png',
     title: 'Truflix',
     info: 'A mini version of netflix.',
-    info2: 'Technologies: Angular, Firebase',
+    info2: 'Technologies: HTML, Sass, Bootstrap, Angular, TypeScript, Firebase',
     url: 'https://truflix-57712.firebaseapp.com/',
     repo: '', // if no repo, the button will not show up
   },
