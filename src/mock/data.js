@@ -17,25 +17,25 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'avatar.png',
+  img: 'Tim.jpeg',
   paragraphOne:
-    'I am a Full Stack developer and I am committed to excellence and delivering quality work through my skills in web development.',
+    'Experienced Software Engineer with a demonstrated history of designing and developing full stack web applications. I specialize in leveraging cloud technologies to create highly scalable and distributed applications. In my most recent role as a Software Engineer at Cardinal Peak, I worked remotely with a distributed team on the development of a cloud-native Test Automation Platform, enhancing scalability and software quality for embedded software running on custom IoT devices.',
   paragraphTwo:
-    'My current tech stack includes HTML5, CSS3, Bootstrap, JavaScript(ES6+), React.js, Angular, C++, Python, Java, Heroku.',
+    'My technical skills include: Python, JavaScript, TypeScript, Angular, React JS, Bootstrap, HTML, CSS, Sass, Node.js, Express.js, jest, Web Sockets, MySQL, MongoDB, Docker, Docker Compose, Version Control (Git, GitHub, GitLab), CI/CD (CircleCI, Jenkins), AWS (S3, Cloudfront, Lambda, RDS, DynamoDB, API Gateway, SQS, SNS, EC2, EBS, AWS Glue, Athena, ECS, ECR), Terraform, UI Design (Figma, Adobe XD), Project Management (Jira & Trello), Agile & Lean Software Development (Scrum & Kanban).',
   paragraphThree:
-    'Some of my favorite hobbies include swimming and playing board games and video games.',
-  resume: 'https://drive.google.com/file/d/1lwrqB2sLBANuAoyvN9Yt-wpTL548asEU/view?usp=sharing', // if no resume, the button will not show up
+    'My certifications include: AWS Certified Solutions Architect - Professional, AWS certified Developer - Associate',
+  resume: 'https://drive.google.com/file/d/1iKY6MCPFMQf2zZWZMEpOMmOsP9-Egkp5/view?usp=drive_link', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'esn.png',
-    title: 'Emergency Social Network',
-    info: 'A social networking web application to help during emergency situations.',
-    info2: 'Technologies: React, Node JS, Express, Heroku, Mongo DB',
-    url: 'https://esn-frontend-s21new.herokuapp.com/',
+    img: 'edtech.png',
+    title: 'Edtech Platform',
+    info: 'This platform offers mentoring to ed-tech entrepreneurs throgh office hours with ed-tech experts.',
+    info2: 'Technologies: HTML, Sass, Angular, TypeScript, Python, FAST API, MongoDB, Docker, Docker Compose, AWS (EC2, S3, Cloudfront, Certificate Manager)',
+    url: 'https://edtechbookme.net/',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -47,15 +47,15 @@ export const projectsData = [
     url: 'https://luggage-hero-a0de7.firebaseapp.com/',
     repo: '', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'mamafair.png',
-    title: 'MamaFair',
-    info: 'Maternal healthcare web application.',
-    info2: 'Technologies: MySQL, PHP (Laravel), Heroku',
-    url: 'http://mamafair.herokuapp.com/',
-    repo: '', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'mamafair.png',
+  //   title: 'MamaFair',
+  //   info: 'Maternal healthcare web application.',
+  //   info2: 'Technologies: MySQL, PHP (Laravel), Heroku',
+  //   url: 'http://mamafair.herokuapp.com/',
+  //   repo: '', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'truflix1.png',
