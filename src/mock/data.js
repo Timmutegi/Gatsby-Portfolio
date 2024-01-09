@@ -33,7 +33,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'edtech.png',
     title: 'Edtech Platform',
-    info: 'This platform offers mentoring to ed-tech entrepreneurs throgh office hours with ed-tech experts.',
+    info: 'This platform offers mentorship to ed-tech entrepreneurs throgh office hours with ed-tech experts.',
     info2: 'Technologies: HTML, Sass, Angular, TypeScript, Python, FAST API, MongoDB, Docker, Docker Compose, AWS (EC2, S3, Cloudfront, Certificate Manager)',
     url: 'https://edtechbookme.net/',
     repo: '', // if no repo, the button will not show up
