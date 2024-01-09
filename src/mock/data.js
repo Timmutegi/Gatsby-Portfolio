@@ -47,15 +47,6 @@ export const projectsData = [
     url: 'https://luggage-hero-a0de7.firebaseapp.com/',
     repo: '', // if no repo, the button will not show up
   },
-  // {
-  //   id: nanoid(),
-  //   img: 'mamafair.png',
-  //   title: 'MamaFair',
-  //   info: 'Maternal healthcare web application.',
-  //   info2: 'Technologies: MySQL, PHP (Laravel), Heroku',
-  //   url: 'http://mamafair.herokuapp.com/',
-  //   repo: '', // if no repo, the button will not show up
-  // },
   {
     id: nanoid(),
     img: 'truflix1.png',
