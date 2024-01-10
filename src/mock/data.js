@@ -24,7 +24,7 @@ export const aboutData = {
     'Technical skills include: Python, JavaScript, TypeScript, Angular, React JS, Bootstrap, HTML, CSS, Sass, Node.js, Express.js, jest, Web Sockets, MySQL, MongoDB, Docker, Docker Compose, Version Control (Git, GitHub, GitLab), CI/CD (CircleCI, Jenkins), AWS (S3, Cloudfront, Lambda, RDS, DynamoDB, API Gateway, SQS, SNS, EC2, EBS, AWS Glue, Athena, ECS, ECR), Terraform, UI Design (Figma, Adobe XD), Project Management (Jira & Trello), Agile & Lean Software Development (Scrum & Kanban).',
   paragraphThree:
     'My certifications include: AWS Certified Solutions Architect - Professional, AWS certified Developer - Associate',
-  resume: 'https://drive.google.com/file/d/1iKY6MCPFMQf2zZWZMEpOMmOsP9-Egkp5/view?usp=drive_link', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1x-bQgiJZX3Ocy44cg9SvXwgdBjyMtHSj/view?usp=drive_link', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
