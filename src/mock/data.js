@@ -33,7 +33,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'edtech.png',
     title: 'Edtech Platform',
-    info: 'This platform offers mentorship to ed-tech entrepreneurs throgh office hours with ed-tech experts.',
+    info: 'This platform offers mentorship to ed-tech entrepreneurs through office hours with ed-tech experts.',
     info2: 'Technologies: HTML, Sass, Angular, TypeScript, Python, FAST API, MongoDB, Docker, Docker Compose, AWS (EC2, S3, Cloudfront, Certificate Manager)',
     url: 'https://edtechbookme.net/',
     repo: '', // if no repo, the button will not show up
@@ -42,8 +42,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'luggage.png',
     title: 'Luggage Hero',
-    info: 'Web application that offers luggage storage services',
-    info2: 'Technologies: HTML, Sass, Angular, Bootstap, TypeScript, NodeJS, Express, Mongo DB, Firebase',
+    info: 'Web application that offers luggage storage services.',
+    info2: 'Technologies: HTML, Sass, Angular, Bootstap, TypeScript, NodeJS, Express, Mongo DB, Firebase.',
     url: 'https://luggage-hero-a0de7.firebaseapp.com/',
     repo: '', // if no repo, the button will not show up
   },
@@ -52,7 +52,7 @@ export const projectsData = [
     img: 'truflix1.png',
     title: 'Truflix',
     info: 'A mini version of netflix.',
-    info2: 'Technologies: HTML, Sass, Bootstrap, Angular, TypeScript, Firebase',
+    info2: 'Technologies: HTML, Sass, Bootstrap, Angular, TypeScript, Firebase.',
     url: 'https://truflix-57712.firebaseapp.com/',
     repo: '', // if no repo, the button will not show up
   },
