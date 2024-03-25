@@ -24,11 +24,20 @@ export const aboutData = {
     'Technical skills include: Python, JavaScript, TypeScript, Angular, React JS, Bootstrap, HTML, CSS, Sass, Node.js, Express.js, jest, Web Sockets, MySQL, MongoDB, Docker, Docker Compose, Version Control (Git, GitHub, GitLab), CI/CD (CircleCI, Jenkins), AWS (S3, Cloudfront, Lambda, RDS, DynamoDB, API Gateway, SQS, SNS, EC2, EBS, AWS Glue, Athena, ECS, ECR), Terraform, UI Design (Figma, Adobe XD), Project Management (Jira & Trello), Agile & Lean Software Development (Scrum & Kanban).',
   paragraphThree:
     'My certifications include: AWS Certified Solutions Architect - Professional, AWS certified Developer - Associate',
-  resume: 'https://drive.google.com/file/d/1x-bQgiJZX3Ocy44cg9SvXwgdBjyMtHSj/view?usp=drive_link', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1XaK1Q0jMFKwK3oE8kWJEjgIw65yXoexj/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'kaziflex.png',
+    title: 'Kaziflex',
+    info: 'Kaziflex is an online platform that bridges the gap between freelancers and customers. It provides a user-friendly interface where freelancers can showcase their skills, portfolio, and expertise, while customers can easily browse through profiles and find the right talent for their projects. The platform also facilitates communication, project management, and payment processing, streamlining the entire freelance experience for both parties.',
+    info2: 'Technologies: HTML, SCSS, Angular17, TypeScript, Python, FAST API, MongoDB, Docker, Docker Compose, AWS (EC2, S3, Cloudfront, Certificate Manager)',
+    url: 'https://kaziflex.com/',
+    repo: '', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'edtech.png',
