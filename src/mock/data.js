@@ -43,8 +43,26 @@ export const projectsData = [
     img: 'edtech.png',
     title: 'Edtech Platform',
     info: 'This platform offers mentorship to ed-tech entrepreneurs through office hours with ed-tech experts.',
-    info2: 'Technologies: HTML, Sass, Angular, TypeScript, Python, FAST API, MongoDB, Docker, Docker Compose, AWS (EC2, S3, Cloudfront, Certificate Manager)',
+    info2: 'Technologies: HTML, Sass, Angular, TypeScript, Python, FAST API, PostgreSQL, Docker, Docker Compose, AWS (EC2, S3, Cloudfront, Certificate Manager)',
     url: 'https://edtechbookme.net/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'blissfulglow.png',
+    title: 'E-commerce Skin Care Web App',
+    info: 'This web application provides inventory management and E-commerce functionality.',
+    info2: 'Technologies: Angular, TypeScript, Python, FAST API, MongoDB, Docker, Docker Compose, AWS (EC2, S3, Cloudfront, Certificate Manager)',
+    url: 'https://blissfulglow.life',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'poiema.png',
+    title: 'Interior Design Company Website',
+    info: 'A website for an interior design company',
+    info2: 'Technologies: HTML, CSS, JavaScript.',
+    url: 'https://d27w1ckn2nce2u.cloudfront.net/',
     repo: '', // if no repo, the button will not show up
   },
   {
